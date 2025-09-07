@@ -135,6 +135,17 @@ To get a local copy up and running, follow these simple steps.
 ## ▶️ How to Run
 1.  Open the project in IntelliJ IDEA.
 2.  Navigate to the `Splash.java` file.
-3.  Right-click on the file and select **Run 'Splash.main()'**.
+3.  Right-click on the file and select **Run 'Splash.main()'**.<img width="1366" height="768" alt="Screenshot (91) - Copy" src="https://github.com/user-attachments/assets/2b3fa42d-74b5-450c-be1a-30559fe022bc" />
+<img width="1366" height="768" alt="Screenshot (90) - Copy" src="https://github.com/user-attachments/assets/9e20f103-417d-4da1-a8d9-b222efe294e0" />
+<img width="1366" height="768" alt="Screenshot (89) - Copy" src="https://github.com/user-attachments/assets/4822c81a-9f4d-4e72-a49e-efe5d5c6fc48" />
+<img width="1366" height="768" alt="Screenshot (88) - Copy" src="https://github.com/user-attachments/assets/89dc2127-3277-476e-bf6c-5194fe4a4703" />
+<img width="1366" height="768" alt="Screenshot (87) - Copy" src="https://github.com/user-attachments/assets/e28e5fc4-4c4b-4195-afcf-72b4ecec21f3" />
+<img width="1366" height="768" alt="Screenshot (86) - Copy" src="https://github.com/user-attachments/assets/20e9d848-2daa-42b1-a2fb-62ffa24942d9" />
+<img width="1366" height="768" alt="Screenshot (95) - Copy" src="https://github.com/user-attachments/assets/3c5f1974-afb5-4923-8c8f-8660d12f1660" />
+<img width="1366" height="768" alt="Screenshot (94) - Copy" src="https://github.com/user-attachments/assets/aadc1993-a48f-4c20-a411-9ef4af2b02aa" />
+<img width="1366" height="768" alt="Screenshot (93) - Copy" src="https://github.com/user-attachments/assets/1b8a441e-511a-4bbd-91fc-8f0f7028b66a" />
+<img width="1366" height="768" alt="Screenshot (92) - Copy" src="https://github.com/user-attachments/assets/33f8d99a-c995-4b71-8991-28e36e1b9cdb" />
 
-```
+
+```<img width="1366" height="768" alt="Screenshot (92) - Copy" src="https://github.com/user-attachments/assets/2d6e5c87-2e55-4576-b6a1-4da02636d262" />
+
